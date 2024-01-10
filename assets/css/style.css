@@ -70,7 +70,7 @@ body {
   padding: 0;
   margin: 0;
   color: var(--optionalColor);
-  font-family: var(--mainfontFamily);
+  font-family: var(vazir);
   font-size: var(--fontSize);
 }
 
